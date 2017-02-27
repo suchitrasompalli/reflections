@@ -29,3 +29,9 @@ git checkout branchName
 
 Git hub is website used to share with others.
 It has a lot of public websites
+
+git remote add origin https://github.com/suchitrasompalli/reflections.git [the url is now called origin]
+git remote -v 
+git push origin master [ Pushes all the previously added and committed files from master to origin]
+
+
