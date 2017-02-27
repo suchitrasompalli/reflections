@@ -1,0 +1,31 @@
+Git - version control - free open source, distributed. Has tiny footprint with fast performance
+[outclasses CVS, Subversion with features like cheap local branching, staging areas, multiple workflows]
+
+GitHub - code sharing and collaboration
+ 
+
+Git versus Google Docs 
+
+Main feature is Google docs saves automatically and is applied to single documents.
+Git requires Commit command before it is saved and the commit applies to mulitple files.
+
+Git bash commands.
+git --version
+git clone "url"
+cd to the cloned directory
+git log
+git diff WantedCommitID PreviousCommitID [Note -- order matters]
+
+git init -- to make any directory you like git ready. It puts a .git directory in that location.
+0 commit when file is first initialized
+
+Branches - maybe you want to do an expiremental version and keep it separate from main features.
+Master is the main branch.
+git branch "branchName"
+git checkout branchName
+
+
+----------------------
+
+Git hub is website used to share with others.
+It has a lot of public websites
